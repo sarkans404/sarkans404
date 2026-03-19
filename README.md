@@ -1,6 +1,6 @@
 ## Hi, I'm Roșu Radic
 
-Junior Full-Stack Developer (Vue.js, Laravel)
+I'm Junior Full-Stack Developer (Vue.js, Laravel).
 I build responsive web applications, from frontend interfaces to backend systems.
 Focused on Vue.js, TypeScript, and Laravel.
 
@@ -18,13 +18,16 @@ Focused on Vue.js, TypeScript, and Laravel.
 
 ## Projects
 
-- **Stackio (Q&A Platform)** – Laravel + Vue  
+- **Stackio (Q&A Platform)** – Laravel + Vue
+
   [GitHub](https://github.com/sarkans404/stackio)
 
-- **Simracing Store (E-commerce)** – PHP  
+- **Simracing Store (E-commerce)** – PHP
+
   [GitHub](https://github.com/sarkans404/simracing)
 
 - **Weather App** – Vue + TypeScript
+
   [GitHub](https://github.com/sarkans404/weatherApp)
 
 ---
@@ -32,5 +35,7 @@ Focused on Vue.js, TypeScript, and Laravel.
 ## Contact
 
 Email: rosuradic00@gmail.com  
+
 GitHub: [sarkans404](https://github.com/sarkans404)
+
 LinkedIn: [rosuradic](https://www.linkedin.com/in/rosu-radic-4277503b8)
