@@ -8,11 +8,11 @@ Focused on Vue.js, TypeScript, and Laravel.
 
 ## SKILLS
 
-● Frontend: Vue.js, TypeScript (basic), JavaScript, HTML, CSS, TailwindCSS.
-● Back-end: PHP, Laravel (basic), REST API development.
-● Databases: MySQL, SQL.
-● Tools: Git, Vite, Docker (basic), npm.
-● Additional: Linux basics, Networking fundamentals, OOP (C++, Java basics)
+- **Frontend:** Vue.js, TypeScript (basic), JavaScript, HTML, CSS, TailwindCSS.
+-  **Back-end:** PHP, Laravel (basic), REST API development.
+-  **Databases:** MySQL, SQL.
+-  **Tools:** Git, Vite, Docker (basic), npm.
+-  **Additional:** Linux basics, Networking fundamentals, OOP (C++, Java basics)
 
 ---
 
@@ -24,7 +24,7 @@ Focused on Vue.js, TypeScript, and Laravel.
 - **Simracing Store (E-commerce)** – PHP  
   [GitHub](https://github.com/sarkans404/simracing)
 
-- **Weather App** – Vue + TypeScript  
+- **Weather App** – Vue + TypeScript
   [GitHub](https://github.com/sarkans404/weatherApp)
 
 ---
