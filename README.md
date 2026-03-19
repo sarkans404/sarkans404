@@ -4,7 +4,7 @@ I'm Junior Full-Stack Developer (Vue.js, Laravel).
 I build responsive web applications, from frontend interfaces to backend systems.  
 Focused on Vue.js, TypeScript, and Laravel.  
 
----
+
 
 ## SKILLS
 
@@ -14,7 +14,7 @@ Focused on Vue.js, TypeScript, and Laravel.
 -  **Tools:** Git, Vite, Docker (basic), npm.  
 -  **Additional:** Linux basics, Networking fundamentals, OOP (C++, Java basics)  
 
----
+
 
 ## Projects
 
@@ -27,7 +27,7 @@ Focused on Vue.js, TypeScript, and Laravel.
 - **Weather App** – Vue + TypeScript  
   [GitHub](https://github.com/sarkans404/weatherApp)
 
----
+
 
 ## Contact
 
