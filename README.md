@@ -1,11 +1,13 @@
 ## Hi, I'm Roșu Radic
+
 Junior Full-Stack Developer (Vue.js, Laravel)
-I build responsive web applications, from frontend interfaces to backend systems.  
+I build responsive web applications, from frontend interfaces to backend systems.
 Focused on Vue.js, TypeScript, and Laravel.
 
 ---
 
 ## SKILLS
+
 ● Frontend: Vue.js, TypeScript (basic), JavaScript, HTML, CSS, TailwindCSS.
 ● Back-end: PHP, Laravel (basic), REST API development.
 ● Databases: MySQL, SQL.
